@@ -1,0 +1,5 @@
+@theme "/home/swaraj/.cache/wal/colors-rofi-dark.rasi"
+
+configuration {
+    show-icons:		true;
+}
