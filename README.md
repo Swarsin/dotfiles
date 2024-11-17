@@ -13,3 +13,4 @@
 - Spotify rice - Spicetify, pywal-spicetify
 - Themes - Pywal and Oomox
 - Wallpaper from wallhaven
+- IDE - Vscodium with pywal extension
