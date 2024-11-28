@@ -1,6 +1,19 @@
 # My Dotfiles for current Hyprland & Arch Linux Setup
 
+## Images:
+![image](https://github.com/user-attachments/assets/b689781a-710f-4deb-89e5-008a7ac11297)
+![image](https://github.com/user-attachments/assets/ccaefb0e-1c37-452a-bcbe-b29efcc17adc)
+![image](https://github.com/user-attachments/assets/4d706511-4d3f-441f-86ee-460af4f1cdab)
 
+## Tools Used:
+- Wayland Compositor - Hyprland 
+- Shell - Zsh with oh-my-zsh
+- Terminal - Kitty
+- Bar - Waybar 
+- Spotify rice - Spicetify
+- Themes - Matugen
+- Wallpaper from wallhaven
+- IDE - Vscodium
 <details>
 <summary>Dotfiles for previous Hyprland setup</summary>
 <br>
