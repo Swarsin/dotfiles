@@ -1,5 +1,9 @@
 # My Dotfiles for current Hyprland & Arch Linux Setup
 
+
+<details>
+<summary>Dotfiles for previous Hyprland setup</summary>
+<br>
 ## Images:
 ### With Waybar:
 ![2024-11-16-190353_hyprshot](https://github.com/user-attachments/assets/eaf9336a-d4be-4ccb-b58c-4d1a00ca8b5f)
@@ -20,3 +24,5 @@
 - Themes - Pywal and Oomox
 - Wallpaper from wallhaven
 - IDE - Vscodium with pywal extension
+</details>
+
