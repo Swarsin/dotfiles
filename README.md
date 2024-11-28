@@ -15,8 +15,10 @@
 - Themes - Matugen
 - Wallpaper from wallhaven
 - IDE - Vscodium
+
+# Previous Hyprland & Arch Linux Setup
 <details>
-<summary>Dotfiles for previous Hyprland setup</summary>
+<summary>Pywal-based theme</summary>
 <br>
 
 ## Images:
