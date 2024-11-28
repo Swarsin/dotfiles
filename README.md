@@ -9,7 +9,8 @@
 - Wayland Compositor - Hyprland 
 - Shell - Zsh with oh-my-zsh
 - Terminal - Kitty
-- Bar - Waybar 
+- Bar - Waybar
+- Wlogout & hyprlock
 - Spotify rice - Spicetify
 - Themes - Matugen
 - Wallpaper from wallhaven
