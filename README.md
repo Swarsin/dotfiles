@@ -1,9 +1,8 @@
 # My Dotfiles for current Hyprland & Arch Linux Setup
 
 ## Images:
-![image](https://github.com/user-attachments/assets/b689781a-710f-4deb-89e5-008a7ac11297)
-![image](https://github.com/user-attachments/assets/ccaefb0e-1c37-452a-bcbe-b29efcc17adc)
-![image](https://github.com/user-attachments/assets/4d706511-4d3f-441f-86ee-460af4f1cdab)
+![2025-01-09-175536_hyprshot](https://github.com/user-attachments/assets/9534ef8d-acad-4512-ae30-1148ca983930)
+![image](https://github.com/user-attachments/assets/a30e98ae-b51b-45d3-81fd-81b483a1f212)
 
 ## Tools Used:
 - Wayland Compositor - Hyprland 
@@ -15,6 +14,7 @@
 - Themes - Matugen
 - Wallpaper from wallhaven
 - IDE - Vscodium
+- Notifications - swaync
 
 # Previous Hyprland & Arch Linux Setup
 <details>
